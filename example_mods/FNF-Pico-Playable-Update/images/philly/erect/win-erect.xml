@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="win-erect.png">
+<SubTexture name="win-erect idle0000" x="0" y="0" width="712" height="185" frameX="-56" frameY="-91" frameWidth="864" frameHeight="477" />
+<SubTexture name="win-erect idle0001" x="0" y="185" width="712" height="185" frameX="-56" frameY="-91" frameWidth="864" frameHeight="477" />
+<SubTexture name="win-erect idle0002" x="0" y="370" width="712" height="185" frameX="-56" frameY="-91" frameWidth="864" frameHeight="477" />
+<SubTexture name="win-erect idle0003" x="712" y="0" width="712" height="185" frameX="-56" frameY="-91" frameWidth="864" frameHeight="477" />
+<SubTexture name="win-erect idle0004" x="712" y="185" width="712" height="185" frameX="-56" frameY="-91" frameWidth="864" frameHeight="477" />
+</TextureAtlas>

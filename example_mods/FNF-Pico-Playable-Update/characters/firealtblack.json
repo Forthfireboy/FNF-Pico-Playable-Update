@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FIREVERYHOT_ALT upfire",
+			"indices": []
+		},
+		{
+			"offsets": [
+				97,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FIREVERYHOT_ALT leftfire"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				100
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "FIREVERYHOT_ALT missup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				98,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "FIREVERYHOT_ALT missright"
+		},
+		{
+			"offsets": [
+				97,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "FIREVERYHOT_ALT missleft"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "FIREVERYHOT_ALT idlefire"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FIREVERYHOT_ALT downfire"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "FIREVERYHOT_ALT missdown"
+		},
+		{
+			"offsets": [
+				98,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FIREVERYHOT_ALT rightfire"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/FIREVERYHOT_alt_black",
+	"position": [
+		80,
+		260
+	],
+	"healthicon": "firealt",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		230,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": true
+}

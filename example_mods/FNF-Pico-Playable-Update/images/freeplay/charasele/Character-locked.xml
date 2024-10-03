@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Character-locked.png">
+<SubTexture name="Character-locked idle0000" x="565" y="0" width="437" height="434" frameX="0" frameY="0" frameWidth="511" frameHeight="471" />
+<SubTexture name="Character-locked idle0001" x="257" y="466" width="239" height="412" frameX="-110" frameY="-36" frameWidth="511" frameHeight="471" />
+<SubTexture name="Character-locked idle0002" x="496" y="466" width="261" height="411" frameX="-97" frameY="-31" frameWidth="511" frameHeight="471" />
+<SubTexture name="Character-locked idle0003" x="1258" y="0" width="311" height="381" frameX="-104" frameY="-56" frameWidth="511" frameHeight="471" />
+<SubTexture name="Character-locked idle0004" x="1002" y="0" width="256" height="407" frameX="-79" frameY="-37" frameWidth="511" frameHeight="471" />
+<SubTexture name="Character-locked idle0005" x="1002" y="407" width="240" height="405" frameX="-110" frameY="-36" frameWidth="511" frameHeight="471" />
+<SubTexture name="Character-locked idle0006" x="0" y="0" width="304" height="466" frameX="-50" frameY="-5" frameWidth="511" frameHeight="471" />
+<SubTexture name="Character-locked idle0007" x="0" y="466" width="257" height="420" frameX="-98" frameY="-38" frameWidth="511" frameHeight="471" />
+<SubTexture name="Character-locked idle0008" x="304" y="0" width="261" height="436" frameX="-99" frameY="-34" frameWidth="511" frameHeight="471" />
+</TextureAtlas>

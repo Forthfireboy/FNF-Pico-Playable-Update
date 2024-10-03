@@ -1,0 +1,214 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nene Abot Idle xmas"
+		},
+		{
+			"offsets": [
+				-50,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "QUERISAWEY",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				7,
+				8,
+				9,
+				10,
+				11,
+				7,
+				8,
+				9,
+				10,
+				11,
+				7,
+				8,
+				9,
+				10,
+				11,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "laughing nene xmas"
+		},
+		{
+			"offsets": [
+				-50,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ja2",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11,
+				11
+			],
+			"name": "laughing nene xmas"
+		},
+		{
+			"offsets": [
+				-50,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ja",
+			"indices": [],
+			"name": "laughing nene xmas"
+		},
+		{
+			"offsets": [
+				-179,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "combo celebration 1 nene xmas"
+		},
+		{
+			"offsets": [
+				-100,
+				-25
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "fawn",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"name": "fawn nene xmas"
+		},
+		{
+			"offsets": [
+				-60,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "knifeRaise",
+			"indices": [],
+			"name": "knife raise xmas"
+		},
+		{
+			"offsets": [
+				75,
+				41
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "knifelower",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "knife lower xmas"
+		},
+		{
+			"offsets": [
+				-169,
+				42
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "knife",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "knife high held xmas"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neneChristmas/neneChristmas",
+	"position": [
+		-20,
+		270
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-70,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

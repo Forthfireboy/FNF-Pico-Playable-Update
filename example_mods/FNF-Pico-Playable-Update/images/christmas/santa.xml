@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="santa.png">
+	
+	
+	<SubTexture name="santa idle in fear0000" x="0" y="0" width="331" height="361" frameX="0" frameY="-13" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0001" x="336" y="0" width="331" height="361" frameX="-1" frameY="-13" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0002" x="672" y="0" width="329" height="362" frameX="-2" frameY="-12" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0003" x="1006" y="0" width="329" height="361" frameX="-2" frameY="-12" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0004" x="1340" y="0" width="325" height="366" frameX="-4" frameY="-8" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0005" x="1670" y="0" width="325" height="366" frameX="-4" frameY="-8" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0006" x="0" y="371" width="325" height="367" frameX="-4" frameY="-7" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0007" x="330" y="371" width="325" height="367" frameX="-4" frameY="-7" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0008" x="660" y="371" width="325" height="373" frameX="-4" frameY="-1" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0009" x="990" y="371" width="325" height="374" frameX="-4" frameY="0" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0010" x="1320" y="371" width="325" height="374" frameX="-4" frameY="0" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0011" x="1650" y="371" width="325" height="374" frameX="-4" frameY="0" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0012" x="990" y="371" width="325" height="374" frameX="-4" frameY="0" frameWidth="331" frameHeight="374" />
+	<SubTexture name="santa idle in fear0013" x="1320" y="371" width="325" height="374" frameX="-4" frameY="0" frameWidth="331" frameHeight="374" />
+</TextureAtlas>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Character-nene.png">
+<SubTexture name="Character-nene idle0000" x="562" y="0" width="546" height="431" frameX="-19" frameY="-8" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0001" x="1108" y="0" width="546" height="426" frameX="-19" frameY="-13" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0002" x="1108" y="426" width="546" height="426" frameX="-19" frameY="-13" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0003" x="0" y="870" width="546" height="426" frameX="-19" frameY="-13" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0004" x="546" y="870" width="546" height="426" frameX="-19" frameY="-13" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0005" x="0" y="439" width="546" height="431" frameX="-19" frameY="-8" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0006" x="0" y="1296" width="546" height="425" frameX="-19" frameY="-14" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0007" x="0" y="0" width="562" height="439" frameX="-19" frameY="0" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0008" x="1092" y="870" width="546" height="426" frameX="-19" frameY="-13" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0009" x="1654" y="0" width="546" height="426" frameX="-19" frameY="-13" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0010" x="1654" y="426" width="546" height="426" frameX="-19" frameY="-13" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene idle0011" x="1654" y="852" width="546" height="426" frameX="-19" frameY="-13" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene Enter0000" x="546" y="439" width="546" height="430" frameX="-19" frameY="-9" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene Enter0001" x="546" y="1296" width="546" height="425" frameX="-19" frameY="-14" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene Enter0002" x="1092" y="1296" width="546" height="425" frameX="-19" frameY="-14" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene Enter0003" x="1638" y="1296" width="546" height="425" frameX="-19" frameY="-14" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene Enter0004" x="0" y="1721" width="546" height="425" frameX="-19" frameY="-14" frameWidth="581" frameHeight="454" />
+<SubTexture name="Character-nene Enter0005" x="0" y="1721" width="546" height="425" frameX="-19" frameY="-14" frameWidth="581" frameHeight="454" />
+</TextureAtlas>

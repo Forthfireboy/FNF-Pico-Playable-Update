@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nene.png" width="4079" height="3412">
+  <SubTexture name="ComboCheer0001" x="0" y="0" width="216" height="147" rotated="true" frameX="-8" frameY="-29" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0002" x="216" y="0" width="223" height="147" rotated="true" frameX="-8" frameY="-22" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0003" x="440" y="0" width="226" height="156" rotated="true" frameX="0" frameY="-22" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0004" x="666" y="0" width="238" height="156" rotated="true" frameX="0" frameY="-10" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0005" x="666" y="0" width="238" height="156" rotated="true" frameX="0" frameY="-10" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0006" x="904" y="0" width="239" height="156" rotated="true" frameX="0" frameY="-9" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0007" x="904" y="0" width="239" height="156" rotated="true" frameX="0" frameY="-9" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0008" x="1144" y="0" width="244" height="156" rotated="true" frameX="0" frameY="-4" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0009" x="1144" y="0" width="244" height="156" rotated="true" frameX="0" frameY="-4" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0010" x="1388" y="0" width="247" height="156" rotated="true" frameX="0" frameY="-1" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0011" x="1388" y="0" width="247" height="156" rotated="true" frameX="0" frameY="-1" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0012" x="1635" y="0" width="248" height="156" rotated="true" frameX="0" frameY="0" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0013" x="1635" y="0" width="248" height="156" rotated="true" frameX="0" frameY="0" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0014" x="0" y="147" width="248" height="156" rotated="true" frameX="0" frameY="0" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0015" x="0" y="147" width="248" height="156" rotated="true" frameX="0" frameY="0" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0016" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0017" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0018" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0019" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0020" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0021" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0022" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0023" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0024" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboCheer0025" x="1883" y="0" width="156" height="218" frameX="0" frameY="-30" frameWidth="156" frameHeight="248" />
+  <SubTexture name="ComboFawn0001" x="930" y="870" width="228" height="208" rotated="true" frameX="0" frameY="-2" frameWidth="208" frameHeight="230" />
+  <SubTexture name="ComboFawn0002" x="930" y="870" width="228" height="208" rotated="true" frameX="0" frameY="-2" frameWidth="208" frameHeight="230" />
+  <SubTexture name="ComboFawn0003" x="0" y="840" width="225" height="205" rotated="true" frameX="-3" frameY="-1" frameWidth="208" frameHeight="230" />
+  <SubTexture name="ComboFawn0004" x="0" y="840" width="225" height="205" rotated="true" frameX="-3" frameY="-1" frameWidth="208" frameHeight="230" />
+  <SubTexture name="ComboFawn0005" x="1698" y="737" width="225" height="204" rotated="true" frameX="-4" frameY="0" frameWidth="208" frameHeight="230" />
+  <SubTexture name="ComboFawn0006" x="1698" y="737" width="225" height="204" rotated="true" frameX="-4" frameY="0" frameWidth="208" frameHeight="230" />
+  <SubTexture name="ComboFawn0007" x="1698" y="737" width="225" height="204" rotated="true" frameX="-4" frameY="0" frameWidth="208" frameHeight="230" />
+  <SubTexture name="Idle0000" x="248" y="156" width="229" height="160" rotated="true" frameX="-49" frameY="-4" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0001" x="248" y="156" width="229" height="160" rotated="true" frameX="-49" frameY="-4" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0002" x="1463" y="737" width="235" height="203" rotated="true" frameX="-7" frameY="-3" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0003" x="1463" y="737" width="235" height="203" rotated="true" frameX="-7" frameY="-3" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0004" x="459" y="860" width="235" height="207" rotated="true" frameX="-2" frameY="-3" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0005" x="694" y="861" width="235" height="207" rotated="true" frameX="-2" frameY="-3" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0006" x="1158" y="872" width="236" height="212" rotated="true" frameX="0" frameY="-2" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0007" x="934" y="1084" width="237" height="220" rotated="true" frameX="0" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0008" x="460" y="1068" width="237" height="220" rotated="true" frameX="-1" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0009" x="697" y="1078" width="237" height="220" rotated="true" frameX="-1" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0010" x="1172" y="1084" width="220" height="237" frameX="-2" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0011" x="1172" y="1084" width="220" height="237" frameX="-2" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0012" x="1392" y="1160" width="237" height="220" rotated="true" frameX="-2" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0013" x="1618" y="941" width="237" height="218" rotated="true" frameX="-5" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0014" x="224" y="1067" width="235" height="218" rotated="true" frameX="-5" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0015" x="1027" y="673" width="197" height="197" frameX="-34" frameY="-9" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0016" x="1027" y="673" width="197" height="197" frameX="-34" frameY="-9" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0017" x="180" y="659" width="181" height="180" frameX="-49" frameY="-9" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0018" x="180" y="659" width="181" height="180" frameX="-49" frameY="-9" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0019" x="1641" y="561" width="181" height="176" frameX="-49" frameY="-9" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0020" x="1822" y="561" width="181" height="176" frameX="-49" frameY="-9" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0021" x="0" y="650" width="180" height="176" frameX="-49" frameY="-7" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0022" x="1093" y="498" width="182" height="174" rotated="true" frameX="-49" frameY="-1" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0023" x="1275" y="498" width="182" height="174" rotated="true" frameX="-49" frameY="-1" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0024" x="1458" y="498" width="183" height="174" rotated="true" frameX="-49" frameY="-1" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0025" x="0" y="476" width="184" height="174" rotated="true" frameX="-49" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0026" x="0" y="476" width="184" height="174" rotated="true" frameX="-49" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0027" x="905" y="498" width="188" height="174" rotated="true" frameX="-49" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0028" x="0" y="303" width="188" height="173" rotated="true" frameX="-49" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="Idle0029" x="703" y="498" width="201" height="173" rotated="true" frameX="-49" frameY="0" frameWidth="230" frameHeight="238" />
+  <SubTexture name="KnifeIdle0001" x="477" y="156" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeIdle0002" x="739" y="156" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeIdle0003" x="739" y="156" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeIdle0004" x="1002" y="156" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeIdle0005" x="1264" y="156" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeIdle0006" x="1264" y="156" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeIdle0007" x="1527" y="156" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeIdle0008" x="188" y="316" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeIdle0009" x="188" y="316" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeIdle0010" x="477" y="156" width="262" height="171" rotated="true" frameX="0" frameY="0" frameWidth="171" frameHeight="262" />
+  <SubTexture name="KnifeLower0001" x="1760" y="389" width="262" height="172" rotated="true" frameX="-116" frameY="0" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0002" x="441" y="498" width="262" height="172" rotated="true" frameX="-116" frameY="0" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0003" x="441" y="498" width="262" height="172" rotated="true" frameX="-116" frameY="0" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0004" x="184" y="487" width="257" height="172" rotated="true" frameX="-116" frameY="-6" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0005" x="184" y="487" width="257" height="172" rotated="true" frameX="-116" frameY="-6" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0006" x="1789" y="218" width="244" height="171" rotated="true" frameX="-116" frameY="-19" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0007" x="1789" y="218" width="244" height="171" rotated="true" frameX="-116" frameY="-19" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0008" x="225" y="857" width="233" height="205" rotated="true" frameX="-86" frameY="-28" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0009" x="225" y="857" width="233" height="205" rotated="true" frameX="-86" frameY="-28" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0010" x="239" y="1288" width="406" height="325" frameX="-1" frameY="-34" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0011" x="646" y="1305" width="406" height="325" frameX="-1" frameY="-34" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeLower0012" x="1052" y="1380" width="407" height="325" frameX="0" frameY="-35" frameWidth="407" frameHeight="360" />
+  <SubTexture name="KnifeRaise0001" x="1629" y="1160" width="238" height="222" rotated="true" frameX="0" frameY="-25" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0002" x="1629" y="1160" width="238" height="222" rotated="true" frameX="0" frameY="-25" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0003" x="1224" y="673" width="239" height="199" rotated="true" frameX="-22" frameY="-24" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0004" x="1224" y="673" width="239" height="199" rotated="true" frameX="-22" frameY="-24" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0005" x="450" y="327" width="259" height="171" rotated="true" frameX="-49" frameY="-4" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0006" x="450" y="327" width="259" height="171" rotated="true" frameX="-49" frameY="-4" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0007" x="710" y="327" width="261" height="171" rotated="true" frameX="-49" frameY="-2" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0008" x="710" y="327" width="261" height="171" rotated="true" frameX="-49" frameY="-2" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0009" x="971" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0010" x="971" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0011" x="1234" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0012" x="1234" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0013" x="1497" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0014" x="1497" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0015" x="1497" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0016" x="1497" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0017" x="1497" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0018" x="1497" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0019" x="1497" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="KnifeRaise0020" x="1497" y="327" width="263" height="171" rotated="true" frameX="-49" frameY="0" frameWidth="222" frameHeight="263" />
+  <SubTexture name="Laugh0001" x="0" y="1286" width="239" height="226" frameX="-1" frameY="-20" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0002" x="0" y="1286" width="239" height="226" frameX="-1" frameY="-20" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0003" x="0" y="1045" width="224" height="229" rotated="true" frameX="0" frameY="-17" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0004" x="0" y="1045" width="224" height="229" rotated="true" frameX="0" frameY="-17" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0005" x="1394" y="940" width="224" height="218" frameX="-5" frameY="-18" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0006" x="1394" y="940" width="224" height="218" frameX="-5" frameY="-18" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0007" x="361" y="671" width="220" height="186" rotated="true" frameX="-22" frameY="-2" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0008" x="361" y="671" width="220" height="186" rotated="true" frameX="-22" frameY="-2" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0009" x="581" y="671" width="222" height="188" rotated="true" frameX="-20" frameY="0" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0010" x="581" y="671" width="222" height="188" rotated="true" frameX="-20" frameY="0" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0011" x="804" y="672" width="223" height="188" rotated="true" frameX="-20" frameY="0" frameWidth="240" frameHeight="246" />
+  <SubTexture name="Laugh0012" x="804" y="672" width="223" height="188" rotated="true" frameX="-20" frameY="0" frameWidth="240" frameHeight="246" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="upperBop.png">
+	
+	
+	<SubTexture name="upperBop0000" x="0" y="0" width="1129" height="144" frameX="0" frameY="-8" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0001" x="0" y="0" width="1129" height="144" frameX="0" frameY="-8" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0002" x="0" y="146" width="1124" height="147" frameX="-3" frameY="-5" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0003" x="0" y="146" width="1124" height="147" frameX="-3" frameY="-5" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0004" x="0" y="296" width="1123" height="150" frameX="-3" frameY="-1" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0005" x="0" y="296" width="1123" height="150" frameX="-3" frameY="-1" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0006" x="0" y="449" width="1121" height="151" frameX="-4" frameY="0" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0007" x="0" y="449" width="1121" height="151" frameX="-4" frameY="0" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0008" x="0" y="449" width="1121" height="151" frameX="-4" frameY="0" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0009" x="0" y="449" width="1121" height="151" frameX="-4" frameY="0" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0010" x="0" y="449" width="1121" height="151" frameX="-4" frameY="0" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0011" x="0" y="449" width="1121" height="151" frameX="-4" frameY="0" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0012" x="0" y="449" width="1121" height="151" frameX="-4" frameY="0" frameWidth="1129" frameHeight="151" />
+	<SubTexture name="upperBop0013" x="0" y="449" width="1121" height="151" frameX="-4" frameY="0" frameWidth="1129" frameHeight="151" />
+</TextureAtlas>

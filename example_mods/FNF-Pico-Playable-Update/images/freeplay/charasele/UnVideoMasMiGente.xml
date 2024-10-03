@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="UnVideoMasMiGente.png">
+<SubTexture name="idle0000" x="0" y="258" width="1295" height="254" frameX="0" frameY="-4" frameWidth="1306" frameHeight="258" />
+<SubTexture name="idle0001" x="0" y="0" width="1306" height="258" frameX="0" frameY="0" frameWidth="1306" frameHeight="258" />
+<SubTexture name="idle0002" x="0" y="766" width="1301" height="252" frameX="0" frameY="-6" frameWidth="1306" frameHeight="258" />
+<SubTexture name="idle0003" x="0" y="512" width="1282" height="254" frameX="0" frameY="-4" frameWidth="1306" frameHeight="258" />
+</TextureAtlas>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="character-fire.png">
+<SubTexture name="intro0000" x="0" y="2224" width="869" height="1034" frameX="-1129" frameY="-260" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="intro0001" x="869" y="2224" width="869" height="1034" frameX="-886" frameY="-260" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="intro0002" x="0" y="1121" width="637" height="1103" frameX="-673" frameY="-191" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="intro0003" x="2361" y="0" width="545" height="1079" frameX="-690" frameY="-215" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="intro0004" x="1188" y="0" width="644" height="1117" frameX="-745" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="intro0005" x="1188" y="0" width="644" height="1117" frameX="-745" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0000" x="1188" y="0" width="644" height="1117" frameX="-745" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0001" x="637" y="1121" width="654" height="1102" frameX="-743" frameY="-192" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0002" x="1291" y="1121" width="668" height="1094" frameX="-743" frameY="-200" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0003" x="2906" y="0" width="693" height="1073" frameX="-735" frameY="-221" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0004" x="1291" y="1121" width="668" height="1094" frameX="-743" frameY="-200" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0005" x="637" y="1121" width="654" height="1102" frameX="-743" frameY="-192" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0006" x="1188" y="0" width="644" height="1117" frameX="-745" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0007" x="1188" y="0" width="644" height="1117" frameX="-745" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0008" x="1188" y="0" width="644" height="1117" frameX="-745" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0009" x="1188" y="0" width="644" height="1117" frameX="-745" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0010" x="1188" y="0" width="644" height="1117" frameX="-745" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="idle0011" x="1188" y="0" width="644" height="1117" frameX="-745" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0000" x="0" y="0" width="536" height="1121" frameX="-753" frameY="-173" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0001" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0002" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0003" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0004" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0005" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0006" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0007" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0008" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0009" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0010" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0011" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0012" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0013" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0014" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0015" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0016" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0017" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0018" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0019" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0020" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0021" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0022" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="enter0023" x="1832" y="0" width="529" height="1117" frameX="-753" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="bye0000" x="536" y="0" width="652" height="1118" frameX="-484" frameY="-177" frameWidth="2000" frameHeight="1300" />
+<SubTexture name="bye0001" x="1738" y="2224" width="869" height="1034" frameX="-5" frameY="-260" frameWidth="2000" frameHeight="1300" />
+</TextureAtlas>

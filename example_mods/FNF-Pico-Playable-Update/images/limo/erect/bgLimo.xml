@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgLimo.png">
+	
+	
+	<SubTexture name="background limo blue0000" x="0" y="0" width="1098" height="191" frameX="-10" frameY="-3" frameWidth="1108" frameHeight="194" />
+	<SubTexture name="background limo blue0001" x="0" y="194" width="1108" height="192" frameX="0" frameY="-2" frameWidth="1108" frameHeight="194" />
+	<SubTexture name="background limo blue0002" x="0" y="389" width="1098" height="194" frameX="-10" frameY="-1" frameWidth="1108" frameHeight="194" />
+	<SubTexture name="background limo blue0003" x="0" y="585" width="1098" height="194" frameX="-10" frameY="0" frameWidth="1108" frameHeight="194" />
+</TextureAtlas>

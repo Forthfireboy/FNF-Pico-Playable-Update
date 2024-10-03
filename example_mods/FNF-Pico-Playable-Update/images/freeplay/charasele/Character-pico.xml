@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Character-pico.png">
+<SubTexture name="Character-pico idle0000" x="1024" y="750" width="293" height="358" frameX="-210" frameY="-21" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico idle0001" x="1094" y="0" width="291" height="361" frameX="-212" frameY="-18" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico idle0002" x="803" y="363" width="291" height="362" frameX="-212" frameY="-17" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico idle0003" x="299" y="381" width="291" height="363" frameX="-212" frameY="-16" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico idle0004" x="803" y="0" width="291" height="363" frameX="-212" frameY="-16" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico idle0005" x="803" y="0" width="291" height="363" frameX="-212" frameY="-16" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico idle0006" x="803" y="0" width="291" height="363" frameX="-212" frameY="-16" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico idle0007" x="803" y="0" width="291" height="363" frameX="-212" frameY="-16" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico idle0008" x="803" y="0" width="291" height="363" frameX="-212" frameY="-16" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0000" x="1385" y="358" width="292" height="357" frameX="-211" frameY="-22" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0001" x="1385" y="358" width="292" height="357" frameX="-211" frameY="-22" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0002" x="440" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0003" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0004" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0005" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0006" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0007" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0008" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0009" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0010" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0011" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0012" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0013" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0014" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0015" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0016" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0017" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0018" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0019" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico enter0020" x="732" y="750" width="292" height="360" frameX="-211" frameY="-19" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico Bye0000" x="0" y="1111" width="299" height="356" frameX="-201" frameY="-21" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico Bye0001" x="0" y="750" width="440" height="361" frameX="-1" frameY="-20" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico intro0000" x="0" y="0" width="402" height="381" frameX="-439" frameY="0" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico intro0001" x="402" y="0" width="401" height="381" frameX="-254" frameY="0" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico intro0002" x="0" y="381" width="299" height="369" frameX="-190" frameY="-14" frameWidth="842" frameHeight="387" />
+<SubTexture name="Character-pico intro0003" x="1385" y="0" width="295" height="358" frameX="-207" frameY="-21" frameWidth="842" frameHeight="387" />
+</TextureAtlas>

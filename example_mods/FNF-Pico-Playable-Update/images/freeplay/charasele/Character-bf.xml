@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Character-bf.png">
+<SubTexture name="Character-bf idle0000" x="892" y="807" width="300" height="392" frameX="-213" frameY="-14" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf idle0001" x="1060" y="401" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf idle0002" x="297" y="404" width="297" height="401" frameX="-216" frameY="-5" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf idle0003" x="466" y="0" width="297" height="403" frameX="-216" frameY="-3" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf idle0004" x="763" y="0" width="297" height="403" frameX="-216" frameY="-3" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf idle0005" x="763" y="0" width="297" height="403" frameX="-216" frameY="-3" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0000" x="594" y="807" width="298" height="396" frameX="-215" frameY="-10" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0001" x="0" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0002" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0003" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0004" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0005" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0006" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0007" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0008" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0009" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0010" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0011" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0012" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0013" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0014" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0015" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0016" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf enter0017" x="297" y="807" width="297" height="398" frameX="-216" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf Bye0000" x="0" y="404" width="297" height="403" frameX="-185" frameY="-3" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf Bye0001" x="0" y="0" width="466" height="404" frameX="0" frameY="-8" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf Intro0000" x="594" y="404" width="433" height="401" frameX="-468" frameY="-11" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf Intro0001" x="1060" y="0" width="433" height="401" frameX="-309" frameY="-11" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf Intro0002" x="0" y="1205" width="326" height="372" frameX="-168" frameY="-41" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf Intro0003" x="1493" y="0" width="303" height="389" frameX="-210" frameY="-17" frameWidth="902" frameHeight="418" />
+<SubTexture name="Character-bf Intro0004" x="1493" y="0" width="303" height="389" frameX="-210" frameY="-17" frameWidth="902" frameHeight="418" />
+</TextureAtlas>

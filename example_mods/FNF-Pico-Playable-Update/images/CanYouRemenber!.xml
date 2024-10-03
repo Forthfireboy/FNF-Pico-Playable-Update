@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Beta_Luigi_Rain_V1.png">
+<SubTexture name="RainLuigi0000" x="0" y="0" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="RainLuigi0001" x="640" y="0" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="RainLuigi0002" x="0" y="360" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="RainLuigi0003" x="640" y="360" width="640" height="360" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+</TextureAtlas>
