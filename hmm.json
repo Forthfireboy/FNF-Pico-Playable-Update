@@ -41,7 +41,7 @@
     },
     {
       "name": "hxCodec",
-      "type": "git",
+      "type": "haxelib",
       "dir": null,
       "ref": "main",
       "url": "https://github.com/mcagabe19-stuff/hxCodec"
