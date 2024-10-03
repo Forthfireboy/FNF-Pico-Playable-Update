@@ -47,10 +47,8 @@
     },
     {
       "name": "hxvlc",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/mcagabe19-stuff/hxvlc"
+      "type": "haxelib",
+      "version": null
     },
     {
       "name": "SScript",
