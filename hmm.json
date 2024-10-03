@@ -42,8 +42,7 @@
     {
       "name": "hxCodec",
       "type": "haxelib",
-      "dir": null,
-      "ref": "main",
+      
       
     },
     {
