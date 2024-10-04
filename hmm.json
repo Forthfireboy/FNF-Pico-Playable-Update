@@ -50,14 +50,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/MAJigsaw77/hxvlc"
-
-      
-    },
-    {
-      "name": "SScript",
-      "type": "haxelib",
-      "version": null
+      "url": "https://github.com/MAJigsaw77/hxvlc" 
     },
     {
       "name": "hxcpp-debug-server",
